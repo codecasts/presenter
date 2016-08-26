@@ -1,0 +1,19 @@
+{
+    "name": "codecasts/presenter",
+    "description": "View Presenter Package from CODECASTS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codecasts\\Presenter\\": "src/"
+        }
+    },
+}
